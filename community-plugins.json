@@ -1,4 +1,12 @@
 [
+	{
+	  "id": "obsidian-zettelkasten-llm-tools"
+    "name": "Zettelkasten LLM Tools",
+    "author": "Karl Smith",
+	  "description": "Zettelkasten note taking powered by Large Language Models (e.g. semantic search).",
+    "repo": "glovguy/obsidian-gpt-zettelkasten",
+	  "branch": "master"
+  },
   {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
@@ -7334,13 +7342,5 @@
     "author": "my99n",
     "description": "render APL syntax",
     "repo": "vzsky/apl-obsidian"
-  },
-  {
-	  "id": "obsidian-zettelkasten-llm-tools"
-    "name": "Zettelkasten LLM Tools",
-    "author": "Karl Smith",
-	  "description": "Zettelkasten note taking powered by Large Language Models (e.g. semantic search).",
-    "repo": "glovguy/obsidian-gpt-zettelkasten",
-	  "branch": "master"
   }
 ]
