@@ -7339,7 +7339,7 @@
 	  "id": "obsidian-zettelkasten-llm-tools"
     "name": "Zettelkasten LLM Tools",
     "author": "Karl Smith",
-	  "description": "Zettelkasten note taking powered by Large Language Models",
+	  "description": "Zettelkasten note taking powered by Large Language Models (e.g. semantic search).",
     "repo": "glovguy/obsidian-gpt-zettelkasten",
 	  "branch": "master"
   }
