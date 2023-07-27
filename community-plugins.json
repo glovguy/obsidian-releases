@@ -1,13 +1,5 @@
 [
   {
-    "id": "obsidian-zettelkasten-llm-tools",
-    "name": "Zettelkasten LLM Tools",
-    "author": "Karl Smith",
-    "description": "Zettelkasten note taking powered by Large Language Models (e.g. semantic search).",
-    "repo": "glovguy/obsidian-gpt-zettelkasten",
-    "branch": "master"
-  },
-  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
@@ -7370,5 +7362,13 @@
     "author": "Paul Treanor",
     "description": "Adds created on and last updated on dates of the active note to the status bar.",
     "repo": "paultreanor/notes-dater"
+  },
+  {
+    "id": "obsidian-zettelkasten-llm-tools",
+    "name": "Zettelkasten LLM Tools",
+    "author": "Karl Smith",
+    "description": "Zettelkasten note taking powered by Large Language Models (e.g. semantic search).",
+    "repo": "glovguy/obsidian-gpt-zettelkasten",
+    "branch": "master"
   }
 ]
